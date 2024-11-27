@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git repository
 <br>
-author - pratik shinde
+author - pratik prashant shinde
